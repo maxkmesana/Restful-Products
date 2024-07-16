@@ -1,0 +1,9 @@
+com\products\practiceProducts\dtos\Product.class
+com\products\practiceProducts\controllers\ProductController.class
+com\products\practiceProducts\models\ProductEntity$ProductEntityBuilder.class
+com\products\practiceProducts\PracticeProductsApplication.class
+com\products\practiceProducts\dtos\Product$ProductBuilder.class
+com\products\practiceProducts\services\ProductServiceInt.class
+com\products\practiceProducts\models\ProductEntity.class
+com\products\practiceProducts\repositories\ProductRepository.class
+com\products\practiceProducts\services\ProductServiceImpl.class
